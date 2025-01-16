@@ -1,4 +1,4 @@
-# Planilha de Monitorização de Consumo de O2
+# Gestão de Consumo de O2
 
 ## Descrição
 Esta planilha foi desenvolvida para monitorar o consumo do tanque de oxigênio (O2) em um ambiente de trabalho. Ela permite o acompanhamento preciso do consumo diário e fornece alertas visuais quando o consumo ultrapassa os limites estabelecidos.
