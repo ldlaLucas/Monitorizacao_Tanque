@@ -16,7 +16,7 @@ Esta planilha foi desenvolvida para monitorar o consumo do tanque de oxigênio (
 
 ## Requisitos
 - Acesso ao Google Planilhas.
-- Inserir os códigos no AppScript, tanto o "Código.gs" quanto o "Macros.gs".
+- Inserir os códigos no Appscript, tanto o "Código.gs" quanto o "Macros.gs".
 
 ### Passos para Inserir os Códigos no Appscript
 1. Abra a planilha no Google Sheets.
@@ -25,3 +25,5 @@ Esta planilha foi desenvolvida para monitorar o consumo do tanque de oxigênio (
 4. Cole o código correspondente em cada arquivo.
 5. Salve e execute os scripts conforme necessário.
 
+## Link para Testes
+Você pode acessar a planilha para testes [aqui](https://docs.google.com/spreadsheets/d/1d27O3rG1x0NA_X8ytCk0X8stUNoOLOkWbTacq2tEPyM/edit?usp=sharing).
